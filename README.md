@@ -9,7 +9,7 @@ Hahow-exam
 
 	c. 使用 npx cypress open。
 
-	d. cypress 視窗開啟後，找到 interview-exam 資料夾。
+	d. cypress 視窗開啟後，點選 hahow/cypress/integration/interview-exam 資料夾。
 
 	e. 執行 exam-1 ~ exam-3，執行結果可點選最終一筆 log，並開啟 chrome 的 F12 視窗，查看 console 內的結果。
 	
